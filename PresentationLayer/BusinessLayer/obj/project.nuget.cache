@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IicFpe4zMQtR+1f/M/FHgwJtFXWEfQVCgRidvGoq8KHGx0zE3/YBmNeDwXWqnw0v60i2Nl96d0XgB+s7+eAu3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jovan Govedarica\\Desktop\\SI_SongInfoApp\\PresentationLayer\\BusinessLayer\\BusinessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jovan Govedarica\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jovan Govedarica\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

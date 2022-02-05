@@ -1,0 +1,12 @@
+C:\Users\Jovan Govedarica\Desktop\SI_SongInfoApp\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Jovan Govedarica\Desktop\SI_SongInfoApp\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.exe.config
+C:\Users\Jovan Govedarica\Desktop\SI_SongInfoApp\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Adminlogin.resources
+C:\Users\Jovan Govedarica\Desktop\SI_SongInfoApp\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.contact.resources
+C:\Users\Jovan Govedarica\Desktop\SI_SongInfoApp\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Form1.resources
+C:\Users\Jovan Govedarica\Desktop\SI_SongInfoApp\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Genres.resources
+C:\Users\Jovan Govedarica\Desktop\SI_SongInfoApp\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Newsongs.resources
+C:\Users\Jovan Govedarica\Desktop\SI_SongInfoApp\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Jovan Govedarica\Desktop\SI_SongInfoApp\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.SongCard.resources
+C:\Users\Jovan Govedarica\Desktop\SI_SongInfoApp\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Songinfoinput.resources
+C:\Users\Jovan Govedarica\Desktop\SI_SongInfoApp\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Jovan Govedarica\Desktop\SI_SongInfoApp\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
