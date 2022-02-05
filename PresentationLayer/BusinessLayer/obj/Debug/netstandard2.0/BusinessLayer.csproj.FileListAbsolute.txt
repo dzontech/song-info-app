@@ -1,0 +1,5 @@
+C:\Users\Jovan Govedarica\Desktop\SI_SongInfoApp\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Jovan Govedarica\Desktop\SI_SongInfoApp\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovan Govedarica\Desktop\SI_SongInfoApp\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Jovan Govedarica\Desktop\SI_SongInfoApp\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Jovan Govedarica\Desktop\SI_SongInfoApp\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+C:\Users\Jovan Govedarica\Desktop\SI_SongInfoApp\PresentationLayer\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Jovan Govedarica\Desktop\SI_SongInfoApp\PresentationLayer\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovan Govedarica\Desktop\SI_SongInfoApp\PresentationLayer\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Jovan Govedarica\Desktop\SI_SongInfoApp\PresentationLayer\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Jovan Govedarica\Desktop\SI_SongInfoApp\PresentationLayer\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CoreCompileInputs.cache
