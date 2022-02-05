@@ -1,2 +1,2 @@
-# SongInfoApp
-Zajednicki projekat za predmet Softversko Inzenjerstvo sa (Ivan Krstic, Marko Djordjevic)
+# song-info-app
+Group university project with Ivan Krstic and Marko Djordjevic
